@@ -1,2 +1,16 @@
-# File-Management
-Collection of methods for managing files from inside a program
+File: .\main.py
+File: .\README.md
+Dir: .\dir_1
+Dir: .\dir_2
+Dir: .\dir_3
+Dir: .\dir_4
+Dir: .\dir_5
+Dir: .\dir_6
+Dir: .\dir_7
+File: .\dir_1\file_1.txt
+File: .\dir_2\file_2.txt
+File: .\dir_3\file_3.txt
+File: .\dir_4\file_4.txt
+File: .\dir_5\file_5.txt
+File: .\dir_6\file_6.txt
+File: .\dir_7\file_7.txt
