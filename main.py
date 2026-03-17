@@ -54,6 +54,7 @@ def print_files():
                 print(f"Dir: {name}")
     
 def main():
+    sys.stdout.write('\a')
     sys.stdout = open("Output.txt", "w")
     print("Files created.")
     setup()
